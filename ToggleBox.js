@@ -5,7 +5,7 @@ import { Text, View, Image, TouchableWithoutFeedback, Animated} from 'react-nati
 import Icon from 'react-native-vector-icons/MaterialIcons'
 
 // styles
-import styles from './ToggleBoxStyle'
+import styles from './ToggleBoxStyles'
 
 class ToggleBox extends React.Component {
 
